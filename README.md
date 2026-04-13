@@ -1,3 +1,7 @@
+![avatar-2](https://github.com/user-attachments/assets/a9fc7756-17c8-4052-98ee-9bd8e6cc73c2)
+
+#TUHGEDEBANGETETONTONGDICOPASINIMAHSESUKAGUEBIARKAGAKENABEGALSERVER 
+
 # cyberw1ry4
 actions script you're like secure or exploiters ? 
 contact checkpoint : 
