@@ -1,6 +1,4 @@
-<img width="596" height="519" alt="harness_with_compute" src="https://github.com/user-attachments/assets/158a9f4c-eb96-4cec-9ba0-0e27d417b401" />
-![avatar-2](https://github.com/user-attachments/assets/a9fc7756-17c8-4052-98ee-9bd8e6cc73c2)
-
+<img width="596" height="519" alt="harness_with_compute" src="https://github.com/user-attachments/assets/2c46e39d-05b6-4abf-9c68-428b3e317c4d" />
 
 # kami meminta putus hubungan kinerja kebijakan dengan kepemerintahan , mereka hanya mengolok dan merencanakan tanpa sumber dimana pekerja karyawan dibatasi , undang undang bukan lagi patokan justru menyusahkan , jika hukum online benar ikut serta dalam kepemerintahan justru kenapa pertanyaan ini seolah negri negara tidak mengetahuinya , tidak ada hukum menyetir dalam perusahaan , intergritas perusahaan memiliki kebijakan sendiri dan menegelola kepentingan membuka SDM dalam kepentingan Umum , 
 # terlalu bodoh dalam menciptakan RUU tata kelola usaha tetapi mentarifan nasional tidak diketahui internasional , justru negara luar lebih memilih gratis dan membangun negaranya tanpa basabasi , terimakasih saya ajukan saya tanda tangan semua negara berhak memiliki hak bebas dalam bekerja , peraturan sudah memihak kepada perusahaan terkait CO owner , leader , pemilik saham , pemilik perusahaan , relasi pekerja , dll. 
