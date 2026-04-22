@@ -1,3 +1,4 @@
+<img width="596" height="519" alt="harness_with_compute" src="https://github.com/user-attachments/assets/158a9f4c-eb96-4cec-9ba0-0e27d417b401" />
 ![avatar-2](https://github.com/user-attachments/assets/a9fc7756-17c8-4052-98ee-9bd8e6cc73c2)
 
 
@@ -2107,3 +2108,5 @@ Sit back and enjoy. "Netflix and skill" :P
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
+<img width="864" height="1152" alt="WhatsApp Image 2026-04-14 at 21 24 37 (1)" src="https://github.com/user-attachments/assets/fd0661a2-3572-457d-9726-6c59dd7e8261" />
+
