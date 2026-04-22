@@ -1,7 +1,4 @@
 <img width="596" height="519" alt="harness_with_compute" src="https://github.com/user-attachments/assets/2c46e39d-05b6-4abf-9c68-428b3e317c4d" />
-<img width="320" height="329" alt="205496893_117688557198902_2509689404924623106_n" src="https://github.com/user-attachments/assets/0f05067c-a4fd-43ca-bff1-be61e836a664" />
-<img width="620" height="520" alt="pengusahamuda_" src="https://github.com/user-attachments/assets/afdef3a2-abad-4e24-8a6d-3d6d95f50a83" />
-<img width="320" height="331" alt="205704240_118277540473337_9030277662718577701_n" src="https://github.com/user-attachments/assets/7a4c3adf-267b-4651-9017-025ac22e8672" />
 
 # kami meminta putus hubungan kinerja kebijakan dengan kepemerintahan , mereka hanya mengolok dan merencanakan tanpa sumber dimana pekerja karyawan dibatasi , undang undang bukan lagi patokan justru menyusahkan , jika hukum online benar ikut serta dalam kepemerintahan justru kenapa pertanyaan ini seolah negri negara tidak mengetahuinya , tidak ada hukum menyetir dalam perusahaan , intergritas perusahaan memiliki kebijakan sendiri dan menegelola kepentingan membuka SDM dalam kepentingan Umum , 
 # terlalu bodoh dalam menciptakan RUU tata kelola usaha tetapi mentarifan nasional tidak diketahui internasional , justru negara luar lebih memilih gratis dan membangun negaranya tanpa basabasi , terimakasih saya ajukan saya tanda tangan semua negara berhak memiliki hak bebas dalam bekerja , peraturan sudah memihak kepada perusahaan terkait CO owner , leader , pemilik saham , pemilik perusahaan , relasi pekerja , dll. 
@@ -2111,3 +2108,4 @@ Sit back and enjoy. "Netflix and skill" :P
 [CC-BY-SA-4.0](./LICENSE.txt)
 <img width="864" height="1152" alt="WhatsApp Image 2026-04-14 at 21 24 37 (1)" src="https://github.com/user-attachments/assets/fd0661a2-3572-457d-9726-6c59dd7e8261" />
 
+<img width="620" height="520" alt="pengusahamuda_" src="https://github.com/user-attachments/assets/375072df-12b3-4b39-8ec0-744d51f312d0" />
