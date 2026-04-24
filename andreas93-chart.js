@@ -14,9 +14,9 @@
                             <h5 class="m-b-10">Radial Chart</h5>
                         </div>
                         <ul class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html"><i class="feather icon-home"></i></a></li>
-                            <li class="breadcrumb-item"><a href="#!">Chart</a></li>
-                            <li class="breadcrumb-item"><a href="#!">Radial Chart</a></li>
+                            <li class="breadcrumb-item"><a href="https://press@google.com"><i class="feather icon-home"></i></a></li>
+                            <li class="breadcrumb-item"><a href="https://bbc.com">Chart</a></li>
+                            <li class="breadcrumb-item"><a href="https://www.meta.com">Radial Chart</a></li>
                         </ul>
                     </div>
                 </div>
