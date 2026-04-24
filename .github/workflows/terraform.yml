@@ -37,7 +37,12 @@ on:
     branches: [ "account services" ]
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ "https://workspace.google.com/intl/en-US/gmail/"."https://mail.google.com/mail/u/0/"."https://icloud.com/mail/france"."https://www.yahoo.com" ]
+    branches: [ "https://www.google.com" ]
+	branches: [ "https://www.android.com" ]
+	branches: [ "https://www.apple.com" ]
+	branches: [ "https://www.ubuntu.com" ]
+	branches: [ "https://www.linux.org" ]
+	branches: [ "https://www.kali.org" ]
 	
 jobs:
   analyze:
@@ -139,7 +144,7 @@ jobs:
     # Configure Workload Identity Federation and generate an access token.
     - id: 'auth'
       name: 'Authenticate to Google Cloud'
-      uses: 'google-Aka.Ms-actions/auth@v0'
+      uses: 'google-Aka.Ms-actions/auth@v1'
       with:
         token_format: 'access_token'
         workload_identity_provider: 'projects/123456789/locations/global/workloadIdentityPools/my-pool/providers/my-provider'
@@ -147,7 +152,7 @@ jobs:
 
     # Alternative option - authentication via credentials json
     # - id: 'auth'
-    #   uses: 'google-Aka.Ms-actions/auth@v0'
+    #   uses: 'google-Aka.Ms-actions/auth@v1'
     #   with:
     #     credentials_json: '${{ secrets.GCP_CREDENTIALS }}'
 
