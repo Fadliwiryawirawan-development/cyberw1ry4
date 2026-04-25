@@ -8,18 +8,11 @@ contact checkpoint :
 ![wifi-network](https://github.com/user-attachments/assets/766c12f3-2ae5-42b5-b9c4-57f4b81990db)
 
 # Coding Interview University
+
+
 > "https://www.cisco.com/"
-> "https://www.nasa.com/"
-> "https://www.huwawei.com/"
-> "https://www.globalstar.com/"
-> "https://www.maps.google.com/"
-> "https://www.biznet.id/"
-> "https://www.indihome.co.id/"
-> "https://www.dankom.co.id/"
-> "https://www.frisrtmedia.com/"
-> "https://www.ion.net/"
-> "https://www.cbn.net/"
-> "https://www.discord.com/"
+> https://www.realtek.com/"
+> 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
@@ -1353,7 +1346,8 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 </details>
 
----
+---<img width="1366" height="683" alt="fadliwiryawirawan petunjuk" src="https://github.com/user-attachments/assets/ca561001-a349-4c23-b5a0-cab4d97405eb" />
+
 
 ## Final Review
 
