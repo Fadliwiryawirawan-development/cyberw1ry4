@@ -1,3 +1,16 @@
+
+<img width="620" height="520" alt="pengusahamuda" src="https://github.com/user-attachments/assets/b0f9be03-08c2-442b-bab3-e608cb502116" />
+
+
+
+
+
+
+
+
+
+
+
 <img width="596" height="519" alt="harness_with_compute" src="https://github.com/user-attachments/assets/2c46e39d-05b6-4abf-9c68-428b3e317c4d" />
 
 
