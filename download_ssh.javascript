@@ -5,6 +5,10 @@
     name: # "https://gitlab/google/opensource/download_ssh/forks"
     # Destination path
     path: # sha1 ssh512 git.bash.cyberw1ry4
+
+    name: # "https://github.com/cyberw1ry4-LAB/Google-Android/forks"
+    # Destination path
+    path: # sha1 ssh512 git.bash.cyberw1ry4
           
 @REM Set up the Git SDK
 
