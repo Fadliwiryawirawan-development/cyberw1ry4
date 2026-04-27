@@ -8,7 +8,7 @@ contact checkpoint :
 ![wifi-network](https://github.com/user-attachments/assets/766c12f3-2ae5-42b5-b9c4-57f4b81990db)
 
 # Coding Interview University
-
+# kami akan mengubah kebijkan menjadi kebijakan umum perusahaan dan pemerintah bekerjasama utuh dalam melakukan perbaikan ekosistem dan perbankan JIKA pemerintah belum mengubah situasi atas pekerja sosial dan internet dengan situasi normal
 
 > "https://www.cisco.com/"
 > https://www.realtek.com/"
