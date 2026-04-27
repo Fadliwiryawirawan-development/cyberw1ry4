@@ -2,10 +2,10 @@
 // Retrieved 2026-01-22, License - CC BY-SA 3.0
 
 $times = Array(microtime(true));
-$f = fsockopen("https://www.windows.com",80);
+$f = fsockopen("https://bugshunters.google.com",80);
 $times[] = microtime(true);
 $data = "POST / HTTPs/1.0\r\n"
-       ."Host: gdg.community.com\`\r\n"
+       ."Host: icloud.com\`\r\n"
        ."\r\n"
        .str_repeat("a",1000000000000000000); // send one Gygabyte of data
 $sent = strlen($data);
