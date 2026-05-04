@@ -17,7 +17,7 @@
 # cyberw1ry4
 actions script you're like secure or exploiters ? 
 contact checkpoint : 
- # ("viivit@checkpoint.com") # ("norway@checkpoint.com") # ("info_benelux@checkpoint.com")
+ # ("info_us@checkpoint.com") # ("norway@checkpoint.com") # ("info_esp@checkpoint.com") # ("info_CN@checkpoint.com") # ("info_Uk@checkpoint.com") #  ("info_sg@checkpoint.com")
 ![wifi-network](https://github.com/user-attachments/assets/766c12f3-2ae5-42b5-b9c4-57f4b81990db)
 
 # Coding Interview University
@@ -2108,6 +2108,5 @@ Sit back and enjoy. "Netflix and skill" :P
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
-<img width="864" height="1152" alt="WhatsApp Image 2026-04-14 at 21 24 37 (1)" src="https://github.com/user-attachments/assets/fd0661a2-3572-457d-9726-6c59dd7e8261" />
 
-<img width="620" height="520" alt="pengusahamuda_" src="https://github.com/user-attachments/assets/375072df-12b3-4b39-8ec0-744d51f312d0" />
+<img width="1094" height="587" alt="motivate unpam s1 sign fullbrigh schoolship research" src="https://github.com/user-attachments/assets/5710794f-be0b-4457-9e0d-4ffabebc2557" />
