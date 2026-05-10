@@ -4,7 +4,8 @@
 <img width="620" height="520" alt="pengusahamuda" src="https://github.com/user-attachments/assets/b0f9be03-08c2-442b-bab3-e608cb502116" />
 
 
-# "[[[https://github.com/Fadliwiryawirawan-development/keylog-IDSGMY/forks](https://github.com/cyber-vivo-w1ry4/mirosoft-dotnet/forks)]
+# [("https://github.com/cyber-vivo-w1ry4/mirosoft-dotnet/forks")]
+# [("https://github.com/cyber-vivo-w1ry4/speed-networks-download_SSH/forks")]
 
 
 
