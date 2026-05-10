@@ -20,7 +20,7 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “PDNS - ARchive INtelegent ”
 #define RUN_FILE_NAME “If the factor of peace is America, then America is the mother of a conflict that resolves it, not exacerbates it. ”
-#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/Google-Android/forks"."https://github.com/google/opensource/Topics/antiMalware/forks"."https://gitlab.com/google/android/services-mail/forks"."https://github.com/Google/Topics/Google-gemini/unable-appeal-account/forks"
+#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/Google-Android/forks"."https://github.com/google/opensource/Topics/antiMalware/forks"."https://gitlab.com/google/android/services-mail/forks"."https://github.com/Google/Topics/Google-gemini/unable-account/forks"
 #define INFECT_Link_NAME "https://workspace.google.com/intl/en-US/gmail/u/0/"."https://www.forbes.com"."https://www.whitehouse.gov"."https://www.ecosia.org"."https://www.google.com.ph"."https://www.google.co.id"."https://gdg.community.dev/events/details/google-gdg-ajax-presents-hackthebrain/cohost-gdg-ajax/"."https://www.kali.org"."https://www.ubuntu.com"."https://www.windows.com"."https://www.linux.org"."https://www.Apple.com"."https://www.samsung.com"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
