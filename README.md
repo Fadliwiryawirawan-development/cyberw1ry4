@@ -3,6 +3,7 @@
 # Disarankan ini demi kenyamanan validasi alam semesta , jangan memindahkan sourcecode maupun mengubahnya dalam satu titik perintah code frame saja , bisa terpidana oleh akoh , @copyright 
 
 <img width="620" height="520" alt="pengusahamuda" src="https://github.com/user-attachments/assets/b0f9be03-08c2-442b-bab3-e608cb502116" />
+<img width="1115" height="337" alt="@copyright" src="https://github.com/user-attachments/assets/bf6cbf10-a778-4fd0-8842-9b9f677e24e2" />
 
 
 # [("https://github.com/cyber-vivo-w1ry4/mirosoft-dotnet/forks")]
