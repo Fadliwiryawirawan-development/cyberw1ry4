@@ -1,3 +1,6 @@
+[AA21-321A-Iranian_Government-Sponsored_APT_Cyber_Actors_Exploiting_Microsoft_Exchange_and_Fortinet_Vulnerabilities.pdf](https://github.com/user-attachments/files/27629820/AA21-321A-Iranian_Government-Sponsored_APT_Cyber_Actors_Exploiting_Microsoft_Exchange_and_Fortinet_Vulnerabilities.pdf)
+
+
 <img width="477" height="333" alt="administrator fadliwiryawirawan indonesian westjava onlyone @copyright" src="https://github.com/user-attachments/assets/6b7ff793-f78e-436b-933c-f5b79dcaf0fa" />
 
 # Disarankan ini demi kenyamanan validasi alam semesta , jangan memindahkan sourcecode maupun mengubahnya dalam satu titik perintah code frame saja , bisa terpidana oleh akoh , @copyright 
