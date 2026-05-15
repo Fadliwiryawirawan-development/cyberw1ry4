@@ -8,12 +8,16 @@
 <img width="620" height="520" alt="pengusahamuda" src="https://github.com/user-attachments/assets/b0f9be03-08c2-442b-bab3-e608cb502116" />
 <img width="1115" height="337" alt="@copyright" src="https://github.com/user-attachments/assets/bf6cbf10-a778-4fd0-8842-9b9f677e24e2" />
 
+link scrolldown informations work google and microsoft linked ID , 
+https://id.linkedin.com/in/fadli-wirya-wirawan-a256b01b3?trk=people-guest_people_search-card
 
+
+https://id.linkedin.com/in/fadli-fadli-wirya-wirawan-kiwil-8495a2199?trk=people-guest_people_search-card
 # [("https://github.com/")]
 # [("https://gitlab.com/)]
 # [("https://bugshunters.google.com/)]
 
-
+# jangan ALASAN SENGAJA USIA BEKERJA SAYA 11 TAHUN masa pembuat dan perkembangan hingga ikut penemu bugs 
 
 # [("https://support.google.com/googlenest/")]
 
