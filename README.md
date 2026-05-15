@@ -2,7 +2,7 @@
 
 
 <img width="477" height="333" alt="administrator fadliwiryawirawan indonesian westjava onlyone @copyright" src="https://github.com/user-attachments/assets/6b7ff793-f78e-436b-933c-f5b79dcaf0fa" />
-
+sign of bellowe 1. habib briziek syoihab , 2. habib ummar hafidz https://www.instagram.com/habibomarcom/
 # Disarankan ini demi kenyamanan validasi alam semesta , jangan memindahkan sourcecode maupun mengubahnya dalam satu titik perintah code frame saja , bisa terpidana oleh akoh , @copyright 
 
 <img width="620" height="520" alt="pengusahamuda" src="https://github.com/user-attachments/assets/b0f9be03-08c2-442b-bab3-e608cb502116" />
