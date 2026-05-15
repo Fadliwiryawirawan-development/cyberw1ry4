@@ -18,7 +18,7 @@ https://id.linkedin.com/in/fadli-fadli-wirya-wirawan-kiwil-8495a2199?trk=people-
 # [("https://bugshunters.google.com/)]
 # "https://bughunters.google.com/about/rules/chrome-friends/chrome-vulnerability-reward-program-rules"
 # jangan ALASAN SENGAJA USIA BEKERJA SAYA 11 TAHUN masa pembuat dan perkembangan hingga ikut penemu bugs 
-
+# "https://issues.chromium.org/issues?q=status:open"
 # [("https://support.google.com/googlenest/")]
 
 
