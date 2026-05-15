@@ -9,8 +9,9 @@
 <img width="1115" height="337" alt="@copyright" src="https://github.com/user-attachments/assets/bf6cbf10-a778-4fd0-8842-9b9f677e24e2" />
 
 
-# [("https://github.com/cyber-vivo-w1ry4/mirosoft-dotnet/forks")]
-# [("https://github.com/cyber-vivo-w1ry4/speed-networks-download_SSH/forks")]
+# [("https://github.com/")]
+# [("https://gitlab.com/)]
+# [("https://bugshunters.google.com/)]
 
 
 
