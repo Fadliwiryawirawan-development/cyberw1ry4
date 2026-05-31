@@ -1,32 +1,5 @@
 [AA21-321A-Iranian_Government-Sponsored_APT_Cyber_Actors_Exploiting_Microsoft_Exchange_and_Fortinet_Vulnerabilities.pdf](https://github.com/user-attachments/files/27629820/AA21-321A-Iranian_Government-Sponsored_APT_Cyber_Actors_Exploiting_Microsoft_Exchange_and_Fortinet_Vulnerabilities.pdf)
 
-# "https://rr3---sn-npoeen6z.googlevideo.com/videoplayback?expire=1778999083&ei=ygoJarDDO_Pyy_sPj9SqiA4&ip=185.231.184.35&id=o-AG5xQYzciMPKDQn1lWfurPm6WyQh-puaYuJH2C3PUs63&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AbKmrwoxUCn-mTyjG0p6zZWpokRziVHtAdkYTKPklfS0PgMGb-qREPUer9FuLZYdVDOji08fG7tk8Ezc&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=20944464&dur=1234.721&lmt=1753922183113905&keepalive=yes&fexp=51565115,51565681&c=ANDROID_VR&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AHEqNM4wRgIhALuqHEWo7WJPG9GGQH-sZ6dSqJtO2M1xERuCOizQBW6OAiEA-rcWTWyZ0nVcb2SWZvnnStZPW6Pil_Hz7rSvP0aFFvU%3D&rm=sn-n2npnuxh5njv-2nvl7l,sn-cvbed7z&rrc=79,104&req_id=8f18d05ba5faa3ee&cmsv=e&rms=rdu,au&redirect_counter=2&cms_redirect=yes&ipbypass=yes&met=1778977520,&mh=wl&mip=103.212.239.50&mm=29&mn=sn-npoeen6z&ms=rdu&mt=1778977019&mv=m&mvi=3&pl=24&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRQIgbn0WnE9PylSFRaxEYvsqVQwBHDk1ElB55qn31UATDq4CIQDNT-ylXVhSAFVfoNB0mLdNfpBaqkS3zD7DEFWWdpQt8g%3D%3D"
-
-<img width="477" height="333" alt="administrator fadliwiryawirawan indonesian westjava onlyone @copyright" src="https://github.com/user-attachments/assets/6b7ff793-f78e-436b-933c-f5b79dcaf0fa" />
-sign of bellowe 1. habib briziek syoihab , 2. habib ummar hafidz https://www.instagram.com/habibomarcom/
-# Disarankan ini demi kenyamanan validasi alam semesta , jangan memindahkan sourcecode maupun mengubahnya dalam satu titik perintah code frame saja , bisa terpidana oleh akoh , @copyright 
-
-<img width="620" height="520" alt="pengusahamuda" src="https://github.com/user-attachments/assets/b0f9be03-08c2-442b-bab3-e608cb502116" />
-<img width="1115" height="337" alt="@copyright" src="https://github.com/user-attachments/assets/bf6cbf10-a778-4fd0-8842-9b9f677e24e2" />
-
-link scrolldown informations work google and microsoft linked ID , 
-https://id.linkedin.com/in/fadli-wirya-wirawan-a256b01b3?trk=people-guest_people_search-card
-
-
-https://id.linkedin.com/in/fadli-fadli-wirya-wirawan-kiwil-8495a2199?trk=people-guest_people_search-card
-# [("https://github.com/")]
-# [("https://gitlab.com/)]
-# [("https://bugshunters.google.com/)]
-# "https://bughunters.google.com/about/rules/chrome-friends/chrome-vulnerability-reward-program-rules"
-# jangan ALASAN SENGAJA USIA BEKERJA SAYA 11 TAHUN masa pembuat dan perkembangan hingga ikut penemu bugs 
-# "https://issues.chromium.org/issues?q=status:open"
-# [("https://support.google.com/googlenest/")]
-
-
-
-
-<img width="596" height="519" alt="harness_with_compute" src="https://github.com/user-attachments/assets/2c46e39d-05b6-4abf-9c68-428b3e317c4d" />
-
 
 # cyberw1ry4
 actions script you're like secure or exploiters ? 
@@ -34,12 +7,7 @@ contact checkpoint :
  # ("info_us@checkpoint.com") # ("norway@checkpoint.com") # ("info_esp@checkpoint.com") # ("info_CN@checkpoint.com") # ("info_Uk@checkpoint.com") #  ("info_sg@checkpoint.com")
 ![wifi-network](https://github.com/user-attachments/assets/766c12f3-2ae5-42b5-b9c4-57f4b81990db)
 
-# Coding Interview University
-# kami akan mengubah kebijkan menjadi kebijakan umum perusahaan dan pemerintah bekerjasama utuh dalam melakukan perbaikan ekosistem dan perbankan JIKA pemerintah belum mengubah situasi atas pekerja sosial dan internet dengan situasi normal
 
-> "https://www.cisco.com/"
-> https://www.realtek.com/"
-> 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
