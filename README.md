@@ -1,6 +1,10 @@
 [AA21-321A-Iranian_Government-Sponsored_APT_Cyber_Actors_Exploiting_Microsoft_Exchange_and_Fortinet_Vulnerabilities.pdf](https://github.com/user-attachments/files/27629820/AA21-321A-Iranian_Government-Sponsored_APT_Cyber_Actors_Exploiting_Microsoft_Exchange_and_Fortinet_Vulnerabilities.pdf)
 
 
+https://github.com/user-attachments/assets/62fa14f5-c1ee-4136-9604-cf913073c38e
+
+
+
 # cyberw1ry4
 actions script you're like secure or exploiters ? 
 contact checkpoint : 
