@@ -2203,5 +2203,4 @@ Sit back and enjoy. "Netflix and skill" :P
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
-
-<img width="1094" height="587" alt="motivate unpam s1 sign fullbrigh schoolship research" src="https://github.com/user-attachments/assets/5710794f-be0b-4457-9e0d-4ffabebc2557" />
+<img width="1230" height="759" alt="indicate cleaners using software eased change flow grow on" src="https://github.com/user-attachments/assets/12be93a3-3079-44a4-8dcb-775f987e0520" />
