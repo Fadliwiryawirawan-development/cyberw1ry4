@@ -32,17 +32,17 @@
   <div class="container">
    <h4>For "Price Row" view - (data-page-type="product")</h4>
    <ul>
-     <li>Cart Size: $390.00</li>
+     <li>Cart Size: $3</li>
      <li>w/ branded Edu Modal (Hero + Logo), click on "Learn how it works."</li>
      <li>with full Affirm logo.</li>
    </ul>
-   <p class="affirm-as-low-as" data-page-type="product" data-amount="39000"></p>
+   <p class="affirm-as-low-as" data-page-type="product" data-amount="39"></p>
  </div>
    <br>
 
    <h4>Requires a single line of code:</h4>
   <pre><code>
-   &lt;p&gt; class="affirm-as-low-as" data-page-type="product" data-amount="39000">&lt;/p&gt; 
+   &lt;p&gt; class="affirm-as-low-as" data-page-type="product" data-amount="39">&lt;/p&gt; 
   </code></pre>
    <br>
  <hr class="dashed">
@@ -51,7 +51,7 @@
   <div class="container">
    <h4>For "Price Row" view - (data-page-type="product")</h4>
    <ul>
-     <li>Cart Size: $390.00</li>
+     <li>Cart Size: $3</li>
      <li>w/ branded Edu Modal (Hero + Logo), click on "Learn how it works."</li>
      <li>with Affirm symbol.</li>
    </ul>
@@ -70,7 +70,7 @@
   <div class="container">
    <h4>For Product Page/PDP - (data-page-type="product")</h4>
    <ul>
-     <li>Cart Size: $230.00 (Below cart floor)</li>
+     <li>Cart Size: $23 (Below cart floor)</li>
      <li>w/ branded Edu Modal (Hero + Logo), click on "Learn more."</li>
      
    </ul>
@@ -90,7 +90,7 @@
  <div class="container">   
    <h4>For "Coupon" view - (data-page-type="homepage")</h4>
    <ul>
-     <li>Cart Size: $380.00</li>
+     <li>Cart Size: $38</li>
      <li>w/ branded Edu Modal (Logo only), click on "Learn more."</li>
    </ul>
    <p class="affirm-as-low-as" data-page-type="homepage" data-amount="38000"></p>
