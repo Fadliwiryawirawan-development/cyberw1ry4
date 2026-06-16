@@ -168,6 +168,11 @@ contact checkpoint :
 
 ## What is it?
 
+
+
+<img width="720" height="1280" alt="FadliWiryaWirawan S Kom M S (2)" src="https://github.com/user-attachments/assets/75ed2ae0-5810-4e53-a661-64df032b5d3a" />
+<img width="720" height="1280" alt="avatar-2-2" src="https://github.com/user-attachments/assets/77ed8c4c-0655-4992-b575-740895e04f40" />
+
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
